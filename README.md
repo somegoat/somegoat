@@ -1,4 +1,4 @@
-Just here for understanding the FLOW ecosystem.  
-Always interested in building cool projects. 
+Just here for understanding the APTOS ecosystem.  
+Building something nice.. 
 
-Co founder and Chief Architect at Crowd FLOW labs.
+Co founder and Chief Architect at Aptboom.
