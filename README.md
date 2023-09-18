@@ -1,4 +1,3 @@
-Just here for understanding the APTOS ecosystem.  
-Building something nice.. 
+Just here for understanding the APTOS ecosystem and zkRollups.  
 
-Co founder and Chief Architect at Aptboom.
+BUIDLing Aptboom.
