@@ -1,3 +1,3 @@
-Just here for understanding the APTOS ecosystem and zkRollups.  
+Just here for understanding the Blockchain ecosystem and zkRollups.  
 
-BUIDLing Aptboom.
+BUIDLing in stealth.
